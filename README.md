@@ -6,4 +6,4 @@
 ## About Me ☜(ಠ_ಠ☜)
 Hi there! I'm Kavin, im currently a Computer Engineering Software student at the University of Alberta
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
