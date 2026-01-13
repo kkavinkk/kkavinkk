@@ -2,7 +2,7 @@
 
 🏫I'm a Software Engineering student @ UAlberta<br/>
 🛫I love to learn new technologies and create innovative tools<br/>
-🧩Currently working on: My Personal Website using React<br/>
+🧩Currently working on: Thrrtl App<br/>
 📲Reach me on [LinkedIn](https://www.linkedin.com/in/kavinvasan-kumaran-7a24352a1/)<br/>
 
 
